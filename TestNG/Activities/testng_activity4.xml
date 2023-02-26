@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ExampleSuite" >
+    <test name="Test" >
+        <classes>
+            <class name="FST_TestNG.DemoOne"/>
+            <class name="FST_TestNG.DemoTwo"/>
+        </classes>
+    </test>
+</suite>
